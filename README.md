@@ -43,7 +43,7 @@ Ce Git contient toutes les ressources nécessaires pour le projet capteur 2021 d
 - Calcule la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
 - Affiche la valeur de la résistance en MΩ
 - Trace un graphique qui décrit l'évolution de la mesure de tension au cours du temps
-- Mise à l'échelle automatique de l'ordonn\'e9e du graphique
+- Mise à l'échelle automatique de l'ordonnée du graphique
 - Possibilité de changer la fréquence d'acquisition (100 ou 20 Hz)
 - Possibilité de mettre sur ON ou OFF l'application en temps réel
 
