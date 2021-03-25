@@ -1,5 +1,5 @@
 # Projet Capteur Graphite ROUBICHOU SOULIER
-Bienvenue sur notre Github, d\'e9couvrez notre travail !
+Bienvenue sur notre Github, découvrez notre travail !
 
 # Sommaire
 <!-- TOC depthFrom:2 -->
