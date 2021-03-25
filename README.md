@@ -105,6 +105,6 @@ Mail : roubicho@etud.insa-toulouse.fr
 
 **Mathias SOULIER**
 
-\Étudiant en 4 ième année du G\'e9nie Physique de l'INSA de Toulouse
+\Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
 
 Mail : msoulier@etud.insa-toulouse.fr
