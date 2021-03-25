@@ -9,11 +9,11 @@ Bienvenue sur notre Github, découvrez notre travail !
       - [2.1.1. Bibliothèques](#211-bibliothèques)
     - [2.2. KICAD](#22-kicad)
     - [2.3. Application Android](#23-application-android)
-      - [2.3.1. Installer l'application](#231-installer-lapplication)
-      - [2.3.2. Modifier l'application](#232-modifier-lapplication)
+     - [2.3.1. MIT App Inventor](#231-mit-app-inventor)
+     - [2.3.2. Installer une application](#231-installer-une-application)
     - [2.4. Banc de test](#24-banc-de-test)
   - [3. Problèmes rencontrés](#3-problèmes-rencontrés)
-    - [3.1. Problème 1 :
+    - [3.1. Problème 1 :](#31-problèmes-1)
   - [4. Informations sur les auteurs](#4-informations-sur-les-auteurs)
 <!-- /TOC -->
 
@@ -77,9 +77,12 @@ Lien pour installer KICAD sur sa machine : https://www.kicad.org/\
 
 ### 2.3. Application Android
 
-#### 2.3.1. Installer l'application
+#### 2.3.1. MIT App Inventor
 
 Lien du site internet de création d'application MIT App Inventor : https://appinventor.mit.edu\
+
+#### 2.3.2. Installer une application
+
 Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC\
 
 ### 2.4. Banc de test
