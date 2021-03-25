@@ -25,7 +25,7 @@ Ce Git contient toutes les ressources nécessaires pour le projet capteur 2021 d
 
 - Mesure la tension de sortie du circuit transimpédance
 - Envoie la mesure de la tension en Bluetooth sur 1 octet
-- Calcule la résistance du capteur de graphite connaissant l'équation de transfert du conditionneur
+- Calcule la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
 - Affiche les mesures de tension, de résistance et la fréquence d'acquisition choisie sur un écran oled 128x64
 - Gère l'encodeur rotatoire pour changer la fréquence d'acquisition
 
@@ -40,7 +40,7 @@ Ce Git contient toutes les ressources nécessaires pour le projet capteur 2021 d
 **Application**
 
 - Récupère la mesure de tension
-- Calcule la résistance du capteur de graphite connaissant l'équation de transfert du conditionneur
+- Calcule la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
 - Affiche la valeur de la résistance en MΩ
 - Trace un graphique qui décrit l'évolution de la mesure de tension au cours du temps
 - Mise à l'échelle automatique de l'ordonn\'e9e du graphique
