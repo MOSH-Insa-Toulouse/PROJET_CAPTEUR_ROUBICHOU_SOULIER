@@ -72,9 +72,11 @@ Lien pour installer l'IDE Arduino sur sa machine : https://www.arduino.cc/en/sof
 
 Comment installer une bibliothèque Arduino ? : https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library\
 
+
 ### 2.2. KICAD
 
 Lien pour installer KICAD sur sa machine : https://www.kicad.org/\
+
 
 ### 2.3. Application Android
 
@@ -85,6 +87,7 @@ Lien du site internet de création d'application MIT App Inventor : https://appi
 #### 2.3.2. Installer une application
 
 Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC\
+
 
 ### 2.4. Banc de test
 
