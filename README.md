@@ -1,6 +1,6 @@
 # Projet Capteur Graphite ROUBICHOU SOULIER
 Bienvenue sur notre Github, d\'e9couvrez notre travail !
-\
+
 # Sommaire
 <!-- TOC depthFrom:2 -->
   - [1. Description](#1-description)
@@ -79,11 +79,8 @@ Lien pour installer KICAD sur sa machine : https://www.kicad.org/\
 
 #### 2.3.1. Installer l'application
 
-Lien pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC\
-
-#### 2.3.2. Modifier l'application
-
-Pour modifier le code de l'application Android, vous pouvez utiliser le fichier en .aia dans MIT Inventor : https://appinventor.mit.edu/\
+Lien du site internet de création d'application MIT App Inventor : https://appinventor.mit.edu\
+Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC\
 
 ### 2.4. Banc de test
 
@@ -101,10 +98,10 @@ Pour modifier le code de l'application Android, vous pouvez utiliser le fichier 
 
 \Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
 
-Mail : roubicho@etud.insa-toulouse.fr\
+Mail : roubicho@etud.insa-toulouse.fr
 
 **Mathias SOULIER**
 
 \Étudiant en 4 ième année du G\'e9nie Physique de l'INSA de Toulouse
 
-Mail : msoulier@etud.insa-toulouse.fr}
+Mail : msoulier@etud.insa-toulouse.fr
