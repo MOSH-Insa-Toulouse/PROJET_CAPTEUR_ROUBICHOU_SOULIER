@@ -56,6 +56,7 @@ Ce Git contient toutes les ressources nécessaires pour le projet capteur 2021 d
 - Permet la mise en place de mesures autonomes
 - Limite la déterioration des capteurs de graphite
 
+
 ## 2. Code et DAO
 
 ### 2.1. Arduino
@@ -87,6 +88,7 @@ Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/i
 
 ### 2.4. Banc de test
 
+
 ## 3. Problèmes rencontrés
 
 ### 3.1. Problème 1 : ...
@@ -94,6 +96,7 @@ Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/i
 **Description du problème**
 
 **Solution**
+
 
 ## 4. Informations sur les auteurs
 
