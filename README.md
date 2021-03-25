@@ -105,12 +105,12 @@ Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/i
 
 **Jordi ROUBICHOU**
 
-\Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
+Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
 
 Mail : roubicho@etud.insa-toulouse.fr
 
 **Mathias SOULIER**
 
-\Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
+Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
 
 Mail : msoulier@etud.insa-toulouse.fr
