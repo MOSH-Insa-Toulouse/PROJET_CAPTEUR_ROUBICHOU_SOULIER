@@ -316,14 +316,10 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 
 ## 4. Informations sur les auteurs
 
-**Jordi ROUBICHOU**
+**Jordi ROUBICHOU & Mathias SOULIER**
 
-- Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
+- Étudiants en 4 ième année du Génie Physique de l'INSA de Toulouse
 
-- Mail : roubicho@etud.insa-toulouse.fr
+- Mail : _roubicho@etud.insa-toulouse.fr_
 
-**Mathias SOULIER**
-
-- Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
-
-- Mail : msoulier@etud.insa-toulouse.fr
+- Mail : _msoulier@etud.insa-toulouse.fr_
