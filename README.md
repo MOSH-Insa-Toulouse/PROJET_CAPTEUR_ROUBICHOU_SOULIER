@@ -65,10 +65,10 @@ Lien pour installer l'IDE Arduino sur sa machine : https://www.arduino.cc/en/sof
 
 #### 2.1.1. Bibliothèques
 
-\À installer depuis l'IDE ou GitHub : \
-- Adafruit GFX Library : https://github.com/adafruit/Adafruit-GFX-Library\
-- Adafruit SSD1306 : https://github.com/adafruit/Adafruit_SSD1306\
-- Adafruit BusIO : https://github.com/adafruit/Adafruit_BusIO\
+À installer depuis l'IDE ou GitHub : 
+- Adafruit GFX Library : https://github.com/adafruit/Adafruit-GFX-Library
+- Adafruit SSD1306 : https://github.com/adafruit/Adafruit_SSD1306
+- Adafruit BusIO : https://github.com/adafruit/Adafruit_BusIO
 
 Comment installer une bibliothèque Arduino ? : https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library\
 
