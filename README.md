@@ -100,6 +100,12 @@ Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/i
 
 ### 2.4. Banc de test
 
+Notre première version du banc de test était une tour avec différents diamètres de rayon connus pour appliquer une contrainte à notre capteur. Ce banc conduisait à des déformations irréversibles de notre capteur. Aussi, ce banc n'était pas autonome et la reproductibilité n'était pas optimale.
+
+![Banc_tour](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/bc074732179e62ec65d1d9f68e228f933a78b1da/Bancs%20de%20test/Banc_tour.jpg)
+
+Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce dernier système permet de générer des contraintes avec des consignes d'angles et autorise, de ce fait, une grande plage de contraintes. Finalement ce banc de test est optimal car il permet la mise en place de mesures autonomes, améliore la répétabilité des mesures et limite la déterioration des capteurs de graphite.
+
 
 ## 3. Problèmes rencontrés
 
