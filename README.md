@@ -17,7 +17,6 @@ Bienvenue sur notre Github, découvrez notre travail !
       - [2.4.1. Première version](#241-première-version)
       - [2.4.2. Seconde version](#242-seconde-version)
   - [3. Problèmes rencontrés](#3-problèmes-rencontrés)
-    - [3.1. Problème 1 :](#31-problèmes-1)
   - [4. Informations sur les auteurs](#4-informations-sur-les-auteurs)
 <!-- /TOC -->
 
@@ -314,23 +313,17 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 
 ## 3. Problèmes rencontrés
 
-### 3.1. Problème 1 : ...
-
-**Description du problème**
-
-**Solution**
-
 
 ## 4. Informations sur les auteurs
 
 **Jordi ROUBICHOU**
 
-Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
+- Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
 
-Mail : roubicho@etud.insa-toulouse.fr
+- Mail : roubicho@etud.insa-toulouse.fr
 
 **Mathias SOULIER**
 
-Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
+- Étudiant en 4 ième année du Génie Physique de l'INSA de Toulouse
 
-Mail : msoulier@etud.insa-toulouse.fr
+- Mail : msoulier@etud.insa-toulouse.fr
