@@ -79,26 +79,20 @@ Voici un code en C :
 
 void setup() 
 {
-///////////////Bluetooth////////////////////////////////
+
 Serial.begin(baudrate);
 pinMode(rxPin,INPUT);
 pinMode(txPin,OUTPUT);
   
 pinMode(pin,INPUT);
 mySerial.begin(baudrate); //bluetooth
-////////////////////////////////////////////////////////
 
-
-///////////////OLED/////////////////////////////////////
 display.begin(SSD1306_SWITCHCAPVCC, 0x3C);//Inititalisation de l'écran
 display.display();
 delay(2000);
   
 display.clearDisplay(); 
-///////////////////////////////////////////////////////
 
-
-//////////////ROUE/////////////////////////////////////
 pinMode(encoder0pinA,INPUT);
 digitalWrite(encoder0pinA,HIGH);
 
@@ -106,7 +100,6 @@ pinMode(encoder0pinB,INPUT);
 digitalWrite(encoder0pinB,HIGH);
 
 attachInterrupt(0,doEncoder, RISING);//intéruption lors du mouvement de la roue
-/////////////////////////////////////////////////////// 
 }
 
 
