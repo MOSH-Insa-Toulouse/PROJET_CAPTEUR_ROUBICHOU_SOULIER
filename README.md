@@ -85,8 +85,8 @@ Le code que nous avons développé permet de:
 - Affiche les mesures de tension, de résistance et la fréquence d'acquisition choisie sur un écran oled 128x64
 - Gère l'encodeur rotatoire pour changer la fréquence d'acquisition
 
-èèheheheheèè
-èèèhehehehèè
+èheheheheè
+èèhehehehè
 
 **Notre code Arduino est à télécharger au lien suivant:** 
 
