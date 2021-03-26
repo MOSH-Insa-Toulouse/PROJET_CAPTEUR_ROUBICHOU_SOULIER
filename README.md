@@ -84,7 +84,10 @@ Le code que nous avons développé permet de:
 - Calcule la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
 - Affiche les mesures de tension, de résistance et la fréquence d'acquisition choisie sur un écran oled 128x64
 - Gère l'encodeur rotatoire pour changer la fréquence d'acquisition
--
+
+>hehehehe
+>heheheh
+
 **Notre code Arduino est à télécharger au lien suivant:** 
 
 https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino
