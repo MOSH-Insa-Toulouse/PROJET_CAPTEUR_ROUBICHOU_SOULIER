@@ -92,7 +92,6 @@ Le code que nous avons développé permet de:
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
-
 double sensorValue;
 double sensorVolt;
 
@@ -106,8 +105,6 @@ Adafruit_SSD1306 display(-1);
 #define DELTAY 2
 #define LOGO16_GLCD_HEIGHT 32
 #define LOGO16_GLCD_WIDTH  128 
-////////////////////////////////////////////////////////////
-
 
 ///////////////////Bluetooth////////////////////////////////
 #define rxPin 10
@@ -115,56 +112,41 @@ Adafruit_SSD1306 display(-1);
 #define baudrate 9600
 #define pin A0
 int etat;
-
 SoftwareSerial mySerial(rxPin,txPin);
-
 String c = "b";
-////////////////////////////////////////////////////////////
-
 
 //////////////////////ROUE//////////////////////////////////
 #define encoder0pinA 2
 #define encoder0pinB 4
 #define Switch 5
-
 volatile unsigned int freq = 50;
-///////////////////////////////////////////////////////////
-
-
 
 /////////////////////FCT ECRAN/////////////////////////////
-void OLED(String text, int x, int y,int size, boolean d) {
-
+void OLED(String text, int x, int y,int size, boolean d) 
+{
   display.setTextSize(size);
   display.setTextColor(WHITE);
   display.setCursor(x,y);
   display.println(text);
-  if(d){
+  
+  if(d)
+  {
     display.display();
   }
-  
   //delay(100);
 }
-///////////////////////////////////////////////////////////
-
-
 
 ////////////////////FCT ROUE//////////////////////////////
 void doEncoder()
 {
-
   if(digitalRead(encoder0pinB)==HIGH){
     freq=10;
   }
   else
   {
     freq=50;
-    }
   }
-/////////////////////////////////////////////////////////
-
-
-
+}
 
 void setup() 
 {
@@ -175,27 +157,19 @@ pinMode(txPin,OUTPUT);
   
 pinMode(pin,INPUT);
 mySerial.begin(baudrate); //bluetooth
-////////////////////////////////////////////////////////
-
 
 ///////////////OLED/////////////////////////////////////
 display.begin(SSD1306_SWITCHCAPVCC, 0x3C);//Inititalisation de l'écran
 display.display();
 delay(2000);
-  
 display.clearDisplay(); 
-///////////////////////////////////////////////////////
-
 
 //////////////ROUE/////////////////////////////////////
 pinMode(encoder0pinA,INPUT);
 digitalWrite(encoder0pinA,HIGH);
-
 pinMode(encoder0pinB,INPUT);
 digitalWrite(encoder0pinB,HIGH);
-
 attachInterrupt(0,doEncoder, RISING);//intéruption lors du mouvement de la roue
-/////////////////////////////////////////////////////// 
 }
 
 void loop()
@@ -212,23 +186,18 @@ int R5 = 10000;
 
 
 sensorVolt = analogRead(pin)*0.004882814; //valeur en Volt
-
 sensorValue = (1+R3/R2)*R1*(5/sensorVolt)-R1-R5;//valeur en Mohm
 //Serial.println(sensorValue);
 String vString = String(sensorVolt, 2); //transforme la donnée des volt en string
 String RString =  String(sensorValue, 0); //transforme la donnée de résistance en string
 String fString = String(f, 3); //transforme la donnée de la fréquence en string
-////////////////////////////////////////////////////////
-
 
 ///////////////BLUETOOTH////////////////////////////////
 if(mySerial.available()>0){
 char data = mySerial.read();
-
 String DataStr = String(data);
 DataStr.trim();
 Serial.println(DataStr);
-
 
 if (c=!DataStr)
 {
@@ -263,8 +232,6 @@ switch(etat)
   Serial.print(val);
   break;
   }
-/////////////////////////////////////////////////////
-
 
 ///////////////////OLED/////////////////////////////
 display.clearDisplay();
@@ -284,11 +251,9 @@ OLED("Hz", 110, 21, 1.9, false);
 
 display.drawRect(1, 1, 126,31, WHITE); ///Met le rectangle autour de l'oled
 display.display();
-//////////////////////////////////////////////////
 
 
 delay(freq); ///Règle la fréquence d'aquisition et d'envoi
-
 }
 ```
 
