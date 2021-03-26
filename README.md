@@ -80,6 +80,9 @@ Lien pour installer KICAD sur sa machine : https://www.kicad.org/\
 
 ### 2.3. Application Android
 
+Voici un aperçu de l'application que nous avons développé:
+![Aperçu de l'application](Aperçu de l'application.png)
+
 #### 2.3.1. MIT App Inventor
 
 Lien du site internet de création d'application MIT App Inventor : https://appinventor.mit.edu\
