@@ -84,7 +84,7 @@ Le code que nous avons développé permet de:
 - Calcule la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
 - Affiche les mesures de tension, de résistance et la fréquence d'acquisition choisie sur un écran oled 128x64
 - Gère l'encodeur rotatoire pour changer la fréquence d'acquisition
-- 
+-
 **Notre code Arduino est à télécharger au lien suivant:** 
 
 https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino
@@ -115,19 +115,19 @@ Voici un aperçu de l'application que nous avons développé. Cette application 
 - Mettre à l'échelle automatique de l'ordonnée du graphique
 - Changer la fréquence d'acquisition (100 ou 20 Hz)
 - Mettre sur ON ou OFF l'application en temps réel
-- 
+
+![Aperçu de l'application](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg)
+
 **Le code de notre application (.aia) est à télécharger au le lien suivant:**
 
 https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/26b40920e06c2dba8526cb9ba54827a0fe55c7c3/Application/ShieldcinqA_II.aia
-
-![Aperçu de l'application](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg)
 
 
 ### 2.4. Bancs de test
 
 #### 2.4.1. Première version 
 
-Notre première version du banc de test était une tour avec différents diamètres de rayon connus pour appliquer une contrainte à notre capteur. Ce banc conduisait à des déformations irréversibles de notre capteur. Aussi, ce banc n'était pas autonome et la reproductibilité n'était pas optimale.
+Notre première version du banc de test était une tour composée des cylindres de différents diamètres connus. Cette tour permet l'application de plusieurs contraintes à notre capteur. Cependant, ce banc conduisait à des déformations irréversibles de notre capteur. Aussi, ce banc n'était pas autonome et la reproductibilité n'était pas optimale.
 
 ![Banc_tour](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/bc074732179e62ec65d1d9f68e228f933a78b1da/Bancs%20de%20test/Banc_tour.jpg)
 
