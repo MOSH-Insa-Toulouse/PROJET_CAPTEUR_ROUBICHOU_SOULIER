@@ -12,7 +12,7 @@ Bienvenue sur notre Github, découvrez notre travail !
     - [2.3. Application Android](#23-application-android)
       - [2.3.1. MIT App Inventor](#231-mit-app-inventor)
       - [2.3.2. Installer une application](#231-installer-une-application)
-    - [2.4. Banc de test](#24-banc-de-test)
+    - [2.4. Bancs de test](#24-bancs-de-test)
   - [3. Problèmes rencontrés](#3-problèmes-rencontrés)
     - [3.1. Problème 1 :](#31-problèmes-1)
   - [4. Informations sur les auteurs](#4-informations-sur-les-auteurs)
@@ -98,7 +98,7 @@ Lien du site internet de création d'application MIT App Inventor : https://appi
 Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC\
 
 
-### 2.4. Banc de test
+### 2.4. Bancs de test
 
 Notre première version du banc de test était une tour avec différents diamètres de rayon connus pour appliquer une contrainte à notre capteur. Ce banc conduisait à des déformations irréversibles de notre capteur. Aussi, ce banc n'était pas autonome et la reproductibilité n'était pas optimale.
 
