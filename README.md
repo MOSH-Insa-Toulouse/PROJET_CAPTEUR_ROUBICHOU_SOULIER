@@ -7,7 +7,7 @@ Bienvenue sur notre Github, découvrez notre travail !
   - [2. Arduino](#2-arduino)
      - [2.1. Bibliothèques](#211-bibliothèques)
      - [2.2. Notre code Arduino](#212-notre-code-arduino)
-  - 3. KICAD](#3-kicad)
+  - [3. KICAD](#3-kicad)
   - [4. Application Android](#4-application-android)
      - [4.1. MIT App Inventor](#41-mit-app-inventor)
      - [4.2. Installer une application](#42-installer-une-application)
