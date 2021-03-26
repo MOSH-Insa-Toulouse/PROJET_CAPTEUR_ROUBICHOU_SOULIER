@@ -257,10 +257,7 @@ delay(freq); ///Règle la fréquence d'aquisition et d'envoi
 }
 ```
 
-**Notre code Arduino est à télécharger au lien suivant:** 
-
-https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino
-
+**Notre code Arduino est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino)** 
 
 ### 2.2. KICAD
 
