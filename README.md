@@ -69,12 +69,11 @@ Lien pour installer l'IDE Arduino sur sa machine : https://www.arduino.cc/en/sof
 
 #### 2.1.1. Bibliothèques
 
-À installer depuis l'IDE ou GitHub : 
-- Adafruit GFX Library : https://github.com/adafruit/Adafruit-GFX-Library
-- Adafruit SSD1306 : https://github.com/adafruit/Adafruit_SSD1306
-- Adafruit BusIO : https://github.com/adafruit/Adafruit_BusIO
+- Installez la bibliothèque "Adafruit GFX Library" [ici](https://github.com/adafruit/Adafruit-GFX-Library)
+- Installez la bibliothèque "Adafruit SSD1306" [ici](https://github.com/adafruit/Adafruit_SSD1306)
+- Installez la bibliothèque "Adafruit BusIOa" [ici](https://github.com/adafruit/Adafruit_BusIO)
 
-Comment installer une bibliothèque Arduino ? : https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library\
+Comment installer une bibliothèque Arduino? Vous trouverez la réponse [ici](https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library)
 
 #### 2.1.2. Notre code Arduino
 
@@ -261,18 +260,18 @@ delay(freq); ///Règle la fréquence d'aquisition et d'envoi
 
 ### 2.2. KICAD
 
-Lien pour installer KICAD sur sa machine : https://www.kicad.org/\
+Comment installer KICAD sur sa machine? La réponse se trouve [ici](https://www.kicad.org/)
 
 
 ### 2.3. Application Android
 
 #### 2.3.1. MIT App Inventor
 
-Lien du site internet de création d'application MIT App Inventor : https://appinventor.mit.edu\
+Le site internet de création d'application MIT App Inventor est accessible en cliquant [ici](https://appinventor.mit.edu)
 
 #### 2.3.2. Installer une application
 
-Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC\
+Comment installer un fichier .apk à partir d'un PC? La réponse se trouve [ici](https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC)
 
 #### 2.3.3. Notre application
 
@@ -287,9 +286,7 @@ Voici un aperçu de l'application que nous avons développé. Cette application 
 
 ![Aperçu de l'application](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg)
 
-**Le code de notre application (.aia) est à télécharger au le lien suivant:**
-
-https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/26b40920e06c2dba8526cb9ba54827a0fe55c7c3/Application/ShieldcinqA_II.aia
+**Le code de notre application (.aia) est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/26b40920e06c2dba8526cb9ba54827a0fe55c7c3/Application/ShieldcinqA_II.aia)**
 
 
 ### 2.4. Bancs de test
@@ -309,13 +306,11 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 ![Banc_servo2](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc_servo2.jpg)
 
 
-**Les fichiers STL que nous avons créés sont à télécharger au lien suivant:**
+**Les fichiers STL que nous avons créés sont à télécharger au ci-dessous:**
 
-**Banc sous forme de tour:** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/9662f01d69eacdf1dfc96737585869e709ca6d86/Bancs%20de%20test/PieceCapteur3%20v1.stl
-
-**Banc avec servomoteur (pièce 1):** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc1%20v3.stl
-
-**Banc avec servomoteur (pièce 2):** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc2%20v1.stl
+- Banc sous forme de tour [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/9662f01d69eacdf1dfc96737585869e709ca6d86/Bancs%20de%20test/PieceCapteur3%20v1.stl)
+- Banc avec servomoteur (pièce 1) [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc1%20v3.stl)
+- Banc avec servomoteur (pièce 2)[ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc2%20v1.stl)
 
 
 ## 3. Problèmes rencontrés
