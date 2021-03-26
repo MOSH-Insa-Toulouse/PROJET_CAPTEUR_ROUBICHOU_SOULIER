@@ -4,20 +4,19 @@ Bienvenue sur notre Github, découvrez notre travail !
 # Sommaire
 <!-- TOC depthFrom:2 -->
   - [1. Description](#1-description)
-  - [2. Codes et DAO](#2-codes-et-dao)
-    - [2.1. Arduino](#21-arduino)
-      - [2.1.1. Bibliothèques](#211-bibliothèques)
-      - [2.1.2. Notre code Arduino](#212-notre-code-arduino)
-    - [2.2. KICAD](#22-kicad)
-    - [2.3. Application Android](#23-application-android)
-      - [2.3.1. MIT App Inventor](#231-mit-app-inventor)
-      - [2.3.2. Installer une application](#231-installer-une-application)
-      - [2.3.3. Notre application](#231-notre-application)
-    - [2.4. Bancs de test](#24-bancs-de-test)
-      - [2.4.1. Première version](#241-première-version)
-      - [2.4.2. Seconde version](#242-seconde-version)
-  - [3. Problèmes rencontrés](#3-problèmes-rencontrés)
-  - [4. Informations sur les auteurs](#4-informations-sur-les-auteurs)
+  - [2. Arduino](#2-arduino)
+     - [2.1. Bibliothèques](#211-bibliothèques)
+     - [2.2. Notre code Arduino](#212-notre-code-arduino)
+  - 3. KICAD](#3-kicad)
+  - [4. Application Android](#4-application-android)
+     - [4.1. MIT App Inventor](#41-mit-app-inventor)
+     - [4.2. Installer une application](#42-installer-une-application)
+     - [4.3. Notre application](#43-notre-application)
+  - [5. Bancs de test](#5-bancs-de-test)
+     - [5.1. Première version](#51-première-version)
+     - [5.2. Seconde version](#52-seconde-version)
+  - [6. Problèmes rencontrés](#6-problèmes-rencontrés)
+  - [7. Informations sur les auteurs](#7-informations-sur-les-auteurs)
 <!-- /TOC -->
 
 ## 1. Description
@@ -60,13 +59,11 @@ Ce Git contient toutes les ressources nécessaires pour le projet capteur 2021 d
 - Limite la déterioration des capteurs de graphite
 
 
-## 2. Codes et DAO
-
-### 2.1. Arduino
+## 2. Arduino
 
 Comment installer l'IDE Arduino sur sa machine? Vous trouverez la réponse [ici](https://www.arduino.cc/en/software)
 
-#### 2.1.1. Bibliothèques
+### 2.1 Bibliothèques
 
 - Installez la bibliothèque "Adafruit GFX Library" [ici](https://github.com/adafruit/Adafruit-GFX-Library)
 - Installez la bibliothèque "Adafruit SSD1306" [ici](https://github.com/adafruit/Adafruit_SSD1306)
@@ -74,7 +71,7 @@ Comment installer l'IDE Arduino sur sa machine? Vous trouverez la réponse [ici]
 
 Comment installer une bibliothèque Arduino? Vous trouverez la réponse [ici](https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library)
 
-#### 2.1.2. Notre code Arduino
+### 2.2. Notre code Arduino
 
 Le code que nous avons développé permet de:
 - Mesurer la tension de sortie du circuit transimpédance
@@ -257,22 +254,21 @@ delay(freq); ///Règle la fréquence d'aquisition et d'envoi
 }
 ```
 
-### 2.2. KICAD
+## 3. KICAD
 
 Comment installer KICAD sur sa machine? La réponse se trouve [ici](https://www.kicad.org/)
 
+## 4. Application Android
 
-### 2.3. Application Android
-
-#### 2.3.1. MIT App Inventor
+### 4.1. MIT App Inventor
 
 Le site internet de création d'application MIT App Inventor est accessible en cliquant [ici](https://appinventor.mit.edu)
 
-#### 2.3.2. Installer une application
+### 4.2. Installer une application
 
 Comment installer un fichier .apk à partir d'un PC? La réponse se trouve [ici](https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC)
 
-#### 2.3.3. Notre application
+### 4.3. Notre application
 
 Voici un aperçu de l'application que nous avons développé. Cette application permet de:
 - Récupérer la mesure de tension
@@ -287,15 +283,15 @@ Voici un aperçu de l'application que nous avons développé. Cette application 
 
 <img src="https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg" width="350">
 
-### 2.4. Bancs de test
+### 5. Bancs de test
 
-#### 2.4.1. Première version 
+### 5.1. Première version 
 
 Notre première version du banc de test était une tour composée des cylindres de différents diamètres connus. Cette tour permet l'application de plusieurs contraintes à notre capteur. Cependant, ce banc conduisait à des déformations irréversibles de notre capteur. Aussi, ce banc n'était pas autonome et la reproductibilité n'était pas optimale.
 
 ![Banc_tour](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/bc074732179e62ec65d1d9f68e228f933a78b1da/Bancs%20de%20test/Banc_tour.jpg)
 
-#### 2.4.2. Seconde version 
+### 5.2. Seconde version 
 
 Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce dernier système permet de générer des contraintes avec des consignes d'angles et autorise, de ce fait, une grande plage de contraintes. Finalement ce banc de test est optimal car il permet la mise en place de mesures autonomes, améliore la répétabilité des mesures et limite la déterioration des capteurs de graphite.
 
@@ -311,10 +307,10 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 - Banc avec servomoteur (pièce 2)[ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc2%20v1.stl)
 
 
-## 3. Problèmes rencontrés
+## 6. Problèmes rencontrés
 
 
-## 4. Informations sur les auteurs
+## 7. Informations sur les auteurs
 
 **Jordi ROUBICHOU & Mathias SOULIER**
 
