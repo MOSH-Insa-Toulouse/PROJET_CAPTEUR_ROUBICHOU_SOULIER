@@ -4,7 +4,7 @@ Bienvenue sur notre Github, découvrez notre travail !
 # Sommaire
 <!-- TOC depthFrom:2 -->
   - [1. Description](#1-description)
-  - [2. Codes et DAO](#2-code-et-dao)
+  - [2. Codes et DAO](#2-codes-et-dao)
     - [2.1. Arduino](#21-arduino)
       - [2.1.1. Bibliothèques](#211-bibliothèques)
       - [2.1.2. Notre code Arduino](#212-notre-code-arduino)
@@ -60,7 +60,7 @@ Ce Git contient toutes les ressources nécessaires pour le projet capteur 2021 d
 - Limite la déterioration des capteurs de graphite
 
 
-## 2. Code et DAO
+## 2. Codes et DAO
 
 ### 2.1. Arduino
 
