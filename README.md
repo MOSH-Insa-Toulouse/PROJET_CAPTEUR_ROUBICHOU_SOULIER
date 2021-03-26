@@ -284,7 +284,7 @@ Voici un aperçu de l'application que nous avons développé. Cette application 
 - Changer la fréquence d'acquisition (100 ou 20 Hz)
 - Mettre sur ON ou OFF l'application en temps réel
 
-![Aperçu de l'application](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg)
+![Aperçu de l'application](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg = 250x250)
 
 **Le code de notre application (.aia) est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/26b40920e06c2dba8526cb9ba54827a0fe55c7c3/Application/ShieldcinqA_II.aia)**
 
