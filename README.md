@@ -84,6 +84,8 @@ Le code que nous avons développé permet de:
 - Affiche les mesures de tension, de résistance et la fréquence d'acquisition choisie sur un écran oled 128x64
 - Gère l'encodeur rotatoire pour changer la fréquence d'acquisition
 
+**Notre code Arduino est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino)** 
+
 ``` c++
 #include <SoftwareSerial.h>
 #include <Arduino.h>
@@ -256,8 +258,6 @@ delay(freq); ///Règle la fréquence d'aquisition et d'envoi
 }
 ```
 
-**Notre code Arduino est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino)** 
-
 ### 2.2. KICAD
 
 Comment installer KICAD sur sa machine? La réponse se trouve [ici](https://www.kicad.org/)
@@ -284,11 +284,9 @@ Voici un aperçu de l'application que nous avons développé. Cette application 
 - Changer la fréquence d'acquisition (100 ou 20 Hz)
 - Mettre sur ON ou OFF l'application en temps réel
 
-<img src="https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg" width="350">
-![Aperçu de l'application](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg)
-
 **Le code de notre application (.aia) est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/26b40920e06c2dba8526cb9ba54827a0fe55c7c3/Application/ShieldcinqA_II.aia)**
 
+<img src="https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg" width="350">
 
 ### 2.4. Bancs de test
 
