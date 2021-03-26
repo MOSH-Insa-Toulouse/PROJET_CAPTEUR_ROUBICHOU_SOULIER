@@ -108,13 +108,13 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 
 ![Banc_servo1](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc_servo1.jpg)
 
-![Banc_servo2](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc2%20v1.stl)
+![Banc_servo2](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc_servo2.jpg)
 
 Les fichiers sont à télécharger au lien suivant:
 
 **Banc sous forme de tour:** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/a528a98aff9cb1aae650b9d8627209bddefc35fe/Bancs%20de%20test/Banc_tour.jpg
 
-**Banc avec servomoteur (pièce 1):** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc_servo1.jpg
+**Banc avec servomoteur (pièce 1):** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc1%20v3.stl
 
 **Banc avec servomoteur (pièce 2):** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc2%20v1.stl
 
