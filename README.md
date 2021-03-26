@@ -7,12 +7,15 @@ Bienvenue sur notre Github, découvrez notre travail !
   - [2. Codes et DAO](#2-code-et-dao)
     - [2.1. Arduino](#21-arduino)
       - [2.1.1. Bibliothèques](#211-bibliothèques)
-      - [2.1.2. Code Arduino](#212-code-arduino)
+      - [2.1.2. Notre code Arduino](#212-notre-code-arduino)
     - [2.2. KICAD](#22-kicad)
     - [2.3. Application Android](#23-application-android)
       - [2.3.1. MIT App Inventor](#231-mit-app-inventor)
       - [2.3.2. Installer une application](#231-installer-une-application)
+      - [2.3.3. Notre application](#231-notre-application)
     - [2.4. Bancs de test](#24-bancs-de-test)
+      - [2.4.1. Première version](#241-première-version)
+      - [2.4.2. Seconde version](#242-seconde-version)
   - [3. Problèmes rencontrés](#3-problèmes-rencontrés)
     - [3.1. Problème 1 :](#31-problèmes-1)
   - [4. Informations sur les auteurs](#4-informations-sur-les-auteurs)
@@ -73,9 +76,18 @@ Lien pour installer l'IDE Arduino sur sa machine : https://www.arduino.cc/en/sof
 
 Comment installer une bibliothèque Arduino ? : https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library\
 
-#### 2.1.2. Code Ardunio
+#### 2.1.2. Notre code Arduino
 
-**Notre code Arduino est à télécharger au lien suivant:** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino
+Le code que nous avons développé permet de:
+- Mesure la tension de sortie du circuit transimpédance
+- Envoie la mesure de la tension en Bluetooth sur 1 octet
+- Calcule la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
+- Affiche les mesures de tension, de résistance et la fréquence d'acquisition choisie sur un écran oled 128x64
+- Gère l'encodeur rotatoire pour changer la fréquence d'acquisition
+- 
+**Notre code Arduino est à télécharger au lien suivant:** 
+
+https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino
 
 
 ### 2.2. KICAD
@@ -85,10 +97,6 @@ Lien pour installer KICAD sur sa machine : https://www.kicad.org/\
 
 ### 2.3. Application Android
 
-Voici un aperçu de l'application que nous avons développé. Retrouvez le code de cette application (.aia) sure notre Github via le lien suivant:https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/26b40920e06c2dba8526cb9ba54827a0fe55c7c3/Application/ShieldcinqA_II.aia
-
-![Aperçu de l'application](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg)
-
 #### 2.3.1. MIT App Inventor
 
 Lien du site internet de création d'application MIT App Inventor : https://appinventor.mit.edu\
@@ -97,12 +105,33 @@ Lien du site internet de création d'application MIT App Inventor : https://appi
 
 Aide pour installer un fichier .apk à partir d'un PC : https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC\
 
+#### 2.3.3. Notre application
+
+Voici un aperçu de l'application que nous avons développé. Cette application permet de:
+- Récupèrer la mesure de tension
+- Calculer la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
+- Afficher la valeur de la résistance en MΩ
+- Tracer un graphique qui décrit l'évolution de la mesure de tension au cours du temps
+- Mettre à l'échelle automatique de l'ordonnée du graphique
+- Changer la fréquence d'acquisition (100 ou 20 Hz)
+- Mettre sur ON ou OFF l'application en temps réel
+- 
+**Le code de notre application (.aia) est à télécharger au le lien suivant:**
+
+https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/26b40920e06c2dba8526cb9ba54827a0fe55c7c3/Application/ShieldcinqA_II.aia
+
+![Aperçu de l'application](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg)
+
 
 ### 2.4. Bancs de test
+
+#### 2.4.1. Première version 
 
 Notre première version du banc de test était une tour avec différents diamètres de rayon connus pour appliquer une contrainte à notre capteur. Ce banc conduisait à des déformations irréversibles de notre capteur. Aussi, ce banc n'était pas autonome et la reproductibilité n'était pas optimale.
 
 ![Banc_tour](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/bc074732179e62ec65d1d9f68e228f933a78b1da/Bancs%20de%20test/Banc_tour.jpg)
+
+#### 2.4.2. Seconde version 
 
 Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce dernier système permet de générer des contraintes avec des consignes d'angles et autorise, de ce fait, une grande plage de contraintes. Finalement ce banc de test est optimal car il permet la mise en place de mesures autonomes, améliore la répétabilité des mesures et limite la déterioration des capteurs de graphite.
 
@@ -111,8 +140,7 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 ![Banc_servo2](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc_servo2.jpg)
 
 
-
-**Les fichiers sont à télécharger au lien suivant:**
+**Les fichiers STL que nous avons créés sont à télécharger au lien suivant:**
 
 **Banc sous forme de tour:** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/9662f01d69eacdf1dfc96737585869e709ca6d86/Bancs%20de%20test/PieceCapteur3%20v1.stl
 
