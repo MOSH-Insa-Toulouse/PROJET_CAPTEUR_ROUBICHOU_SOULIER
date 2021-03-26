@@ -270,7 +270,7 @@ Comment installer un fichier .apk à partir d'un PC? La réponse se trouve [ici]
 
 ### 4.3. Notre application
 
-Voici un aperçu de l'application que nous avons développé. Cette application permet de:
+Vous trouverez ci-dessous un aperçu de l'application que nous avons développé. Cette application permet de:
 - Récupérer la mesure de tension
 - Calculer la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
 - Afficher la valeur de la résistance en MΩ
@@ -283,7 +283,7 @@ Voici un aperçu de l'application que nous avons développé. Cette application 
 
 <img src="https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg" width="350">
 
-### 5. Bancs de test
+## 5. Bancs de test
 
 ### 5.1. Première version 
 
