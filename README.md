@@ -77,7 +77,7 @@ Comment installer une bibliothèque Arduino ? : https://www.arduino.cc/en/Guide/
 
 Voici un code en C :
 
-void setup() 
+èvoid setup() 
 {
 
 Serial.begin(baudrate);
@@ -100,7 +100,7 @@ pinMode(encoder0pinB,INPUT);
 digitalWrite(encoder0pinB,HIGH);
 
 attachInterrupt(0,doEncoder, RISING);//intéruption lors du mouvement de la roue
-}
+}è
 
 
 ### 2.2. KICAD
