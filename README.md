@@ -65,7 +65,7 @@ Ce Git contient toutes les ressources nécessaires pour le projet capteur 2021 d
 
 ### 2.1. Arduino
 
-Lien pour installer l'IDE Arduino sur sa machine : https://www.arduino.cc/en/software\
+Comment installer l'IDE Arduino sur sa machine? Vous trouverez la réponse [ici](https://www.arduino.cc/en/software)
 
 #### 2.1.1. Bibliothèques
 
