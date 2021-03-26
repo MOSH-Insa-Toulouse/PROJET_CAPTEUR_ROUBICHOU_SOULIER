@@ -75,7 +75,7 @@ Comment installer une bibliothèque Arduino ? : https://www.arduino.cc/en/Guide/
 
 #### 2.1.2. Code Ardunio
 
-Notre code Arduino est à télécharger au lien suivant: https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino
+**Notre code Arduino est à télécharger au lien suivant:** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino
 
 
 ### 2.2. KICAD
@@ -110,7 +110,9 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 
 ![Banc_servo2](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc_servo2.jpg)
 
-Les fichiers sont à télécharger au lien suivant:
+![Banc_entier](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/db4003adcbe7cb7c55629432178166902b3bdf07/Bancs%20de%20test/Banc_entier.jpg)
+
+**Les fichiers sont à télécharger au lien suivant:**
 
 **Banc sous forme de tour:** https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/9662f01d69eacdf1dfc96737585869e709ca6d86/Bancs%20de%20test/PieceCapteur3%20v1.stl
 
