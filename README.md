@@ -78,11 +78,11 @@ Comment installer une bibliothèque Arduino? Vous trouverez la réponse [ici](ht
 #### 2.1.2. Notre code Arduino
 
 Le code que nous avons développé permet de:
-- Mesure la tension de sortie du circuit transimpédance
-- Envoie la mesure de la tension en Bluetooth sur 1 octet
-- Calcule la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
-- Affiche les mesures de tension, de résistance et la fréquence d'acquisition choisie sur un écran oled 128x64
-- Gère l'encodeur rotatoire pour changer la fréquence d'acquisition
+- Mesurer la tension de sortie du circuit transimpédance
+- Envoyer la mesure de la tension en Bluetooth sur 1 octet
+- Calculer la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
+- Afficher les mesures de tension, de résistance et la fréquence d'acquisition choisie sur un écran oled 128x64
+- Gèrer l'encodeur rotatoire pour changer la fréquence d'acquisition
 
 **Notre code Arduino est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino)** 
 
@@ -276,7 +276,7 @@ Comment installer un fichier .apk à partir d'un PC? La réponse se trouve [ici]
 #### 2.3.3. Notre application
 
 Voici un aperçu de l'application que nous avons développé. Cette application permet de:
-- Récupèrer la mesure de tension
+- Récupérer la mesure de tension
 - Calculer la résistance du capteur de graphite connaissant la fonction de transfert du conditionneur
 - Afficher la valeur de la résistance en MΩ
 - Tracer un graphique qui décrit l'évolution de la mesure de tension au cours du temps
