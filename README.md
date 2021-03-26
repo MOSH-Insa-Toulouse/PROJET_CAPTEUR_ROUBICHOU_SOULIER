@@ -75,32 +75,7 @@ Comment installer une bibliothèque Arduino ? : https://www.arduino.cc/en/Guide/
 
 #### 2.1.2. Code Ardunio
 
-Voici un code en C :
-
-èvoid setup() 
-{
-
-Serial.begin(baudrate);
-pinMode(rxPin,INPUT);
-pinMode(txPin,OUTPUT);
-  
-pinMode(pin,INPUT);
-mySerial.begin(baudrate); //bluetooth
-
-display.begin(SSD1306_SWITCHCAPVCC, 0x3C);//Inititalisation de l'écran
-display.display();
-delay(2000);
-  
-display.clearDisplay(); 
-
-pinMode(encoder0pinA,INPUT);
-digitalWrite(encoder0pinA,HIGH);
-
-pinMode(encoder0pinB,INPUT);
-digitalWrite(encoder0pinB,HIGH);
-
-attachInterrupt(0,doEncoder, RISING);//intéruption lors du mouvement de la roue
-}è
+Notre code Arduino est à télécharger au lien suivant: https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/230c8323b89008d6615a6afa0b6356e3ce4d4a17/Code%20Arduino/Projet_Capteur.ino
 
 
 ### 2.2. KICAD
