@@ -106,6 +106,12 @@ Notre première version du banc de test était une tour avec différents diamèt
 
 Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce dernier système permet de générer des contraintes avec des consignes d'angles et autorise, de ce fait, une grande plage de contraintes. Finalement ce banc de test est optimal car il permet la mise en place de mesures autonomes, améliore la répétabilité des mesures et limite la déterioration des capteurs de graphite.
 
+![Banc_servo1](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc_servo1.jpg)
+
+![Banc_servo2](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc2%20v1.stl)
+
+Les fichiers sont à télécharger au lien suivant: 
+
 
 ## 3. Problèmes rencontrés
 
