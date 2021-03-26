@@ -7,6 +7,7 @@ Bienvenue sur notre Github, découvrez notre travail !
   - [2. Codes et DAO](#2-code-et-dao)
     - [2.1. Arduino](#21-arduino)
       - [2.1.1. Bibliothèques](#211-bibliothèques)
+      - [2.1.2. Code Arduino](#212-code-arduino)
     - [2.2. KICAD](#22-kicad)
     - [2.3. Application Android](#23-application-android)
       - [2.3.1. MIT App Inventor](#231-mit-app-inventor)
@@ -71,6 +72,42 @@ Lien pour installer l'IDE Arduino sur sa machine : https://www.arduino.cc/en/sof
 - Adafruit BusIO : https://github.com/adafruit/Adafruit_BusIO
 
 Comment installer une bibliothèque Arduino ? : https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library\
+
+#### 2.1.2. Code Ardunio
+
+Voici un code en C :
+
+void setup() 
+{
+///////////////Bluetooth////////////////////////////////
+Serial.begin(baudrate);
+pinMode(rxPin,INPUT);
+pinMode(txPin,OUTPUT);
+  
+pinMode(pin,INPUT);
+mySerial.begin(baudrate); //bluetooth
+////////////////////////////////////////////////////////
+
+
+///////////////OLED/////////////////////////////////////
+display.begin(SSD1306_SWITCHCAPVCC, 0x3C);//Inititalisation de l'écran
+display.display();
+delay(2000);
+  
+display.clearDisplay(); 
+///////////////////////////////////////////////////////
+
+
+//////////////ROUE/////////////////////////////////////
+pinMode(encoder0pinA,INPUT);
+digitalWrite(encoder0pinA,HIGH);
+
+pinMode(encoder0pinB,INPUT);
+digitalWrite(encoder0pinB,HIGH);
+
+attachInterrupt(0,doEncoder, RISING);//intéruption lors du mouvement de la roue
+/////////////////////////////////////////////////////// 
+}
 
 
 ### 2.2. KICAD
