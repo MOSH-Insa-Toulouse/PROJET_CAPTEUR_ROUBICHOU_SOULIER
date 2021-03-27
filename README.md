@@ -15,7 +15,7 @@ Bienvenue sur notre Github, découvrez notre travail !
   - [5. Bancs de test](#5-bancs-de-test)
      - [5.1. Première version](#51-première-version)
      - [5.2. Seconde version](#52-seconde-version)
-  - [6. Problèmes rencontrés](#6-problèmes-rencontrés)
+  - [6. Améliorations possibles](#6-améliorations-possibles)
   - [7. Informations sur les auteurs](#7-informations-sur-les-auteurs)
 <!-- /TOC -->
 
@@ -307,7 +307,7 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 - Banc avec servomoteur (pièce 2)[ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc2%20v1.stl)
 
 
-## 6. Problèmes rencontrés
+## 6. Améliorations possibles
 
 
 ## 7. Informations sur les auteurs
