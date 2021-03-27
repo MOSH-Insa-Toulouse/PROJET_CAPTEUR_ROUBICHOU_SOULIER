@@ -61,7 +61,7 @@ Ce Git contient toutes les ressources nécessaires pour le projet capteur 2021 d
 
 ## 2. Arduino
 
-Comment installer l'IDE Arduino sur sa machine? Vous trouverez la réponse [ici](https://www.arduino.cc/en/software)
+_Comment installer l'IDE Arduino sur sa machine? Vous trouverez la réponse [ici](https://www.arduino.cc/en/software)_
 
 ### 2.1 Bibliothèques
 
@@ -69,7 +69,7 @@ Comment installer l'IDE Arduino sur sa machine? Vous trouverez la réponse [ici]
 - Installez la bibliothèque "Adafruit SSD1306" [ici](https://github.com/adafruit/Adafruit_SSD1306)
 - Installez la bibliothèque "Adafruit BusIOa" [ici](https://github.com/adafruit/Adafruit_BusIO)
 
-Comment installer une bibliothèque Arduino? Vous trouverez la réponse [ici](https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library)
+_Comment installer une bibliothèque Arduino? Vous trouverez la réponse [ici](https://www.arduino.cc/en/Guide/Libraries#how-to-install-a-library)_
 
 ### 2.2. Notre code Arduino
 
@@ -256,17 +256,17 @@ delay(freq); ///Règle la fréquence d'aquisition et d'envoi
 
 ## 3. KICAD
 
-Comment installer KICAD sur sa machine? La réponse se trouve [ici](https://www.kicad.org/)
+_Comment installer KICAD sur sa machine? La réponse se trouve [ici](https://www.kicad.org/)_
 
 ## 4. Application Android
 
 ### 4.1. MIT App Inventor
 
-Le site internet de création d'application MIT App Inventor est accessible en cliquant [ici](https://appinventor.mit.edu)
+_Le site internet de création d'application MIT App Inventor est accessible en cliquant [ici](https://appinventor.mit.edu)_
 
 ### 4.2. Installer une application
 
-Comment installer un fichier .apk à partir d'un PC? La réponse se trouve [ici](https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC)
+_Comment installer un fichier .apk à partir d'un PC? La réponse se trouve [ici](https://fr.wikihow.com/installer-sur-un-Android-des-fichiers-APK-%C3%A0-partir-d%E2%80%99un-PC)_
 
 ### 4.3. Notre application
 
