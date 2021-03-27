@@ -5,8 +5,8 @@ Bienvenue sur notre Github, découvrez notre travail !
 <!-- TOC depthFrom:2 -->
   - [1. Description](#1-description)
   - [2. Arduino](#2-arduino)
-     - [2.1. Bibliothèques](#211-bibliothèques)
-     - [2.2. Notre code Arduino](#212-notre-code-arduino)
+     - [2.1. Bibliothèques](#22-bibliothèques)
+     - [2.2. Notre code Arduino](#22-notre-code-arduino)
   - [3. KICAD](#3-kicad)
   - [4. Application Android](#4-application-android)
      - [4.1. MIT App Inventor](#41-mit-app-inventor)
