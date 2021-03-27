@@ -299,6 +299,8 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 
 ![Banc_servo2](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc_servo2.jpg)
 
+![Banc_entier](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/645c806b0f1c0926f491db2260c7f1c53356cb8d/Bancs%20de%20test/Banc_entier.jpg)
+
 
 **Les fichiers STL que nous avons créés sont à télécharger au ci-dessous:**
 
