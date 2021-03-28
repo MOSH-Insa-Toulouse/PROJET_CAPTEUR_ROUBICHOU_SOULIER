@@ -318,6 +318,6 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 
 - Étudiants en 4 ième année du Génie Physique de l'INSA de Toulouse
 
-- Mail : _roubicho@etud.insa-toulouse.fr_
+- _roubicho@etud.insa-toulouse.fr_
 
-- Mail : _msoulier@etud.insa-toulouse.fr_
+- _msoulier@etud.insa-toulouse.fr_
