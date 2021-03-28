@@ -281,6 +281,8 @@ Vous trouverez ci-dessous un aperçu de l'application que nous avons développé
 
 **Le code de notre application (.aia) est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/26b40920e06c2dba8526cb9ba54827a0fe55c7c3/Application/ShieldcinqA_II.aia)**
 
+**Le code de notre application (.apk) est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/f0df43999fbf93bf9aa83195ed25307b022c2bd4/Application/ShieldcinqA_II.apk)**
+
 <img src="https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/d21327abb01d30de01a223b486101d84e5ce3184/Application/Aper%C3%A7u%20de%20l'application.jpg" width="350">
 
 ## 5. Bancs de test
