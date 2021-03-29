@@ -258,7 +258,23 @@ delay(freq); ///Règle la fréquence d'aquisition et d'envoi
 
 _Comment installer KICAD sur sa machine? La réponse se trouve [ici](https://www.kicad.org/)_
 
-**Notre projet KICAD est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/tree/main/KICAD/Projet%20KICAD)
+Vous trouverez ci-dessous un aperçu de l'empreinte du Shield que nous avons développé. Le projet sur le logiciel KICAD permet de:
+
+- Créer PCB sous forme de Shield pour carte Arduino UNO
+- Interfacer le capteur au graphite via un circuit transimpédance
+- Interfacer un module Bluetooth
+- Interfacer un écran oled
+- Interfacer un encodeur rotatoire
+
+![Projet_Cabinet-F_Cu_Zoom](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/41c4963ea870a401f0c1fa7faffc844092c51389/KICAD/Autres%20fichiers/Projet_Cabinet-F_Cu_Zoom.png)
+
+**L'empreinte au format PDF est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/tree/main/KICAD/PDF)**
+
+
+**L'empreinte au format GERBER est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/tree/main/KICAD/GERBER)**
+
+
+**Notre projet KICAD est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/tree/main/KICAD/Projet%20KICAD)**
 
 ## 4. Application Android
 
