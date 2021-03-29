@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name shield_projet)(type Legacy)(uri "U:/Windows/Bureau/Kicad uno/shield_projet.lib")(options "")(descr ""))
+  (lib (name Kicad_Projet)(type Legacy)(uri "U:/Windows/Bureau/Kicad uno/Kicad_Projet.lib")(options "")(descr ""))
+  (lib (name Kicad_uno-cache)(type Legacy)(uri "U:/Windows/Bureau/Kicad uno/Kicad uno-cache.lib")(options "")(descr ""))
+)
