@@ -258,6 +258,8 @@ delay(freq); ///Règle la fréquence d'aquisition et d'envoi
 
 _Comment installer KICAD sur sa machine? La réponse se trouve [ici](https://www.kicad.org/)_
 
+**Notre projet KICAD est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/tree/main/KICAD/Projet%20KICAD)
+
 ## 4. Application Android
 
 ### 4.1. MIT App Inventor
