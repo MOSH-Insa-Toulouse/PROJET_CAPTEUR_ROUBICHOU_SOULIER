@@ -346,6 +346,9 @@ Les caractéristiques du capteur ont été déterminées par la mesure de la ré
 
 ## 6. Améliorations possibles
 
+- Améliorer la banc de test pour qu'il puisse faire des contrainte en extension et en contraction sur le capteur sans le retourner.
+- Optimiser le type de capteur, notamment en améliroant la qualité du papier utiliser ou la façon de plastifier le capteur.
+- Adapter le circuit électronique à un type de capteur pour en optimiser les performances.
 
 ## 7. Informations sur les auteurs
 
