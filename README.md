@@ -276,6 +276,10 @@ Vous trouverez ci-dessous un aperçu de l'empreinte du Shield que nous avons dé
 
 **Notre projet KICAD est à télécharger [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/tree/main/KICAD/Projet%20KICAD)**
 
+Ci-dessous est l’application typique du capteur dans un circuit analogique. La résistance R5 protège l’amplificateur opérationnel des décharges électrostatiques et forme avec la capacité C1 un filtre pour les bruits en tension. La capacité C1 et la résistance R1 forment un filtre pour le bruit en courant. La résistance R2 est interchangeable pour pouvoir adapter le calibre. La capacité C4 avec la résistance R3 forment un filtre actif, tandis que C2 et R6 forment le filtre de sortie. La capacité C3 permet de filtrer le bruit sur l’alimentation. Le signal délivré par le capteur traverse un pont diviseur de tension. La tension résultante en sortie est amplifiée par l’amplificateur opérationnel LTC1050 puis elle est filtrée par un filtre RC de sortie. La tension associée à l’étiquette ADC peut être connectée à un ADC 5V. Une carte Arduino peut être utilisée à cet effet.
+
+![Projet_Cabinet-F_Cu_Zoom](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/41c4963ea870a401f0c1fa7faffc844092c51389/KICAD/Autres%20fichiers/Projet_Cabinet-F_Cu_Zoom.png)
+
 ## 4. Application Android
 
 ### 4.1. MIT App Inventor
