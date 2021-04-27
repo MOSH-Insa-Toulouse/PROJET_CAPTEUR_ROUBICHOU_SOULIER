@@ -337,6 +337,11 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 
 Les caractéristiques du capteur ont été déterminées par la mesure de la résistance pour différentes déformations appliquées. L’expérience a été réalisée pour différents types de crayons (2H, HB et B) dont la concentration en graphite varie.
 
+![Capteur 2H](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/3c55e781ed0b5a0de9d2b6cd5c9e7eb7ca34a8aa/Bancs%20de%20test/Courbe%20d'%C3%A9talonnage%20(Capteur%20de%20type%202H).png)
+
+![Capteur HB](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/3c55e781ed0b5a0de9d2b6cd5c9e7eb7ca34a8aa/Bancs%20de%20test/Courbe%20d'%C3%A9talonnage%20(Capteur%20de%20type%20HB).png)
+
+![Capteur 2B](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/3c55e781ed0b5a0de9d2b6cd5c9e7eb7ca34a8aa/Bancs%20de%20test/Courbe%20d'%C3%A9talonnage%20(Capteur%20de%20type%20B).png)
 
 
 ## 6. Améliorations possibles
