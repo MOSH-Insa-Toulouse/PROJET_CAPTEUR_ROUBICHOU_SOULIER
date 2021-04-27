@@ -15,6 +15,7 @@ Bienvenue sur notre Github, découvrez notre travail !
   - [5. Bancs de test](#5-bancs-de-test)
      - [5.1. Première version](#51-première-version)
      - [5.2. Seconde version](#52-seconde-version)
+     - [5.3. Résultats](#53-résultats)
   - [6. Améliorations possibles](#6-améliorations-possibles)
   - [7. Informations sur les auteurs](#7-informations-sur-les-auteurs)
 <!-- /TOC -->
@@ -331,6 +332,11 @@ Nous sommes donc passés à un banc de test fonctionnant avec un servomoteur. Ce
 - Banc sous forme de tour [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/9662f01d69eacdf1dfc96737585869e709ca6d86/Bancs%20de%20test/PieceCapteur3%20v1.stl)
 - Banc avec servomoteur (pièce 1) [ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/e755654e5a37c8409d6181bdfd030661f82570d9/Bancs%20de%20test/Banc1%20v3.stl)
 - Banc avec servomoteur (pièce 2)[ici](https://github.com/MOSH-Insa-Toulouse/PROJET_CAPTEUR_ROUBICHOU_SOULIER/blob/b976cd1678c3cf63028d5a895135fa7c54baf83e/Bancs%20de%20test/Banc2%20v1.stl)
+
+### 5.3. Résultats
+
+Les caractéristiques du capteur ont été déterminées par la mesure de la résistance pour différentes déformations appliquées. L’expérience a été réalisée pour différents types de crayons (2H, HB et B) dont la concentration en graphite varie.
+
 
 
 ## 6. Améliorations possibles
